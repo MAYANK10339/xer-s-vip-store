@@ -1,1 +1,24 @@
-
+{
+  "users": [
+    {
+      "id": "bdae3b37-7d00-4636-89a6-e5a0d33f7cbf",
+      "name": "XER'S VIP STORE Admin",
+      "email": "admin@xvip.xer",
+      "password": "$2a$10$TTr8.KNyK.AZnzApnJ.4LebRsjE9N2rtXpJnMOchuUYcUxIZTuASW",
+      "wallet": 0,
+      "address": null,
+      "status": "active",
+      "isAdmin": true,
+      "createdAt": "2026-10-11T13:44:06.073Z"
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "categories": [
+    "Electronics",
+    "Lifestyle",
+    "Home",
+    "Accessories",
+    "Wellness"
+  ]
+}
